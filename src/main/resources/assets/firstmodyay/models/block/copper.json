@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "firstmodyay:blocks/coppertop",
+    "particle": "firstmodyay:blocks/coppertop"
+  }
+}

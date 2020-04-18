@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "firstmodyay:copperore"
+    },
+    "title": {
+      "translate": "advancements.copper2.title"
+    },
+    "description": {
+      "translate": "advancements.copper2.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "copper2": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "firstmodyay:copper",
+            "count": {
+              "min": 1,
+              "max": 1000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "firstmodyay:copper1"
+}

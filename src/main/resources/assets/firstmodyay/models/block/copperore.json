@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "firstmodyay:blocks/copper_ore",
+    "particle": "firstmodyay:blocks/copper_ore"
+  }
+}

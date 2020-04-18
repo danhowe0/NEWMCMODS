@@ -1,0 +1,13 @@
+{
+  "group": "firstmodyay",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "firstmodyay:copper"
+    }
+  ],
+  "result": {
+    "item": "firstmodyay:copperingot",
+    "count": 9
+  }
+}

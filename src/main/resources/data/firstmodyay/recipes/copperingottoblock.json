@@ -1,0 +1,42 @@
+{
+  "group": "firstmodyay",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "firstmodyay:copperingot"
+    },
+    "1": {
+      "item": "firstmodyay:copperingot"
+    },
+    "2": {
+      "item": "firstmodyay:copperingot"
+    },
+    "3": {
+      "item": "firstmodyay:copperingot"
+    },
+    "4": {
+      "item": "firstmodyay:copperingot"
+    },
+    "5": {
+      "item": "firstmodyay:copperingot"
+    },
+    "6": {
+      "item": "firstmodyay:copperingot"
+    },
+    "7": {
+      "item": "firstmodyay:copperingot"
+    },
+    "8": {
+      "item": "firstmodyay:copperingot"
+    }
+  },
+  "result": {
+    "item": "firstmodyay:copper",
+    "count": 1
+  }
+}
